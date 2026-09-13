@@ -5,7 +5,7 @@
 - Kamaria Noble
 - Sebastian Tamayo
 - Manal Wadif
-- Christian Saul Hernandez
+- Nicole Steffen
 
 ## Project Description
 Customers currently request product returns via email or phone calls, requiring support staff to manually verify purchase dates against the 30-day policy and check final-sale eligibility. This manual process leads to delayed responses, repeated status inquiries, and duplicate requests from impatient customers.
